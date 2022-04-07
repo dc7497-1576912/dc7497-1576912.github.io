@@ -1,0 +1,11 @@
+.floaty{
+    float: right;
+}
+
+.roundy{
+    border-radius: 10px;
+    background-color: blueviolet;
+    width: 100px;
+    height: 60px;
+    padding: auto;
+}
