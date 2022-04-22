@@ -37,7 +37,7 @@ p, a {font-weight: 400;}
 .typo-space-line::after,
 .typo-space-line-center::after {
   content: "";
-  width: 150px;
+  width: 170px;
   display:block;
   position: absolute;
   border-bottom:  5px solid #6266ea;
